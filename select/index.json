@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青春サイクリング",
+  "base_artist": "小坂一也",
+  "createdAt": "2025-12-14T11:06:07.072426Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春サイクリング",
+      "artist": "小坂一也",
+      "has_synced": false,
+      "path": "select/pl_01_青春サイクリング_小坂一也.txt"
+    }
+  ]
+}
